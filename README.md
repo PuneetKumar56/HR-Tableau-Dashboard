@@ -87,7 +87,9 @@ This dashboard will help HR managers to:
 ## 📂 Tableau Workbook
 The full interactive HR Dashboard is available in the file:
 
-👉 [Download HR_Dashboard.twbx](HR dashboards.twbx)
+## 📂 Tableau Workbook
+👉 [Download HR Dashboards.twbx](./Tableau20%Workbook/HR%20dashboards.twbx)
+
 
 
 ## 👨‍💻 Author
